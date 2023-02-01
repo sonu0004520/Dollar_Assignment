@@ -5,7 +5,7 @@ import Services from "./components/Services";
 
 const Home = () => {
   const data = {
-    name: "Dollar Store",
+    name: "Super Store",
   };
 
   return (
